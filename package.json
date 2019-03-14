@@ -1,0 +1,25 @@
+{
+  "name": "websocket",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "yxwei",
+  "description": "A services for websocket",
+  "keywords": [
+    "node.js",
+    "javascript",
+    "websocket"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yxwei0129/websocket"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "morgan": "~1.9.0"
+  }
+}

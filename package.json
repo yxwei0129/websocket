@@ -8,8 +8,6 @@
   "author": "yxwei",
   "description": "A services for websocket",
   "keywords": [
-    "node.js",
-    "javascript",
     "websocket"
   ],
   "repository": {
